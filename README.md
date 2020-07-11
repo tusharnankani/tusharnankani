@@ -33,6 +33,9 @@ Currently, aim is to become a globally competent individual with **programming s
 <a href="https://github.com/tusharnankani/TSECHackathon">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=TSECHackathon" />
 </a>
+<a href="https://github.com/tusharnankani/AnalogClock">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=AnalogClock"/>
+</a>
 <a href="https://github.com/tusharnankani/ToDoList">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=ToDoList"/>
 </a>
