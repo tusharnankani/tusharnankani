@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *PHP, MySQL, React.js*
 
-- 👯 I’m looking to collaborate on **Open Sourced** Projects on *Web Devlopment*.
+- 👯 I’m looking to collaborate on **Open Sourced** Projects on *Web Devlopment* and *Python* related Projects.
 
 - 🤔 I’m looking for help with *Machine Learning & Data Science.*
 
