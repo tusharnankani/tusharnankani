@@ -2,12 +2,19 @@
 
 
 - 🔭 I’m currently working on my **Competitive Coding Skills**.
+
 - 🌱 I’m currently learning *PHP, MySQL, React.js*
+
 - 👯 I’m looking to collaborate on **Open Sourced** Projects on *Web Devlopment*.
+
 - 🤔 I’m looking for help with *Machine Learning & Data Science.*
+
 - 💬 Ask me about **anything**, **anytime**!
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharnankani/) or <a href="mailto:tusharnankani3@gmail.com">Email</a>
+
 - 😄 Pronouns: **Coder**, **Orator**
+
 <!-- - ⚡ Fun fact: -->
 
 ### About Me
