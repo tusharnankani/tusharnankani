@@ -19,11 +19,11 @@
 
 ### About Me
 
-I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and a desire to contribute to environment and society.
+I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and a desire to contribute to **environment** and **society**.
 
 My interest lies in **Data Science**, **Empirical Research**, **Statistics** and **Machine Learning**. I aim to be an **Opensource contributor**. 
 
-Currently, aim is to become a globally competent individual with **programming skills** along with **business leadership/entrepreneurship skills** and a desire to contribute to **environment** and **society.**
+Currently, aim is to become a globally competent individual with **programming skills** along with **business leadership/entrepreneurship skills**.
 
 
 ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&line_height=30)
@@ -36,6 +36,7 @@ Currently, aim is to become a globally competent individual with **programming s
 <a href="https://github.com/tusharnankani/AnalogClock">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=AnalogClock"/>
 </a>
+
 <a href="https://github.com/tusharnankani/ToDoList">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=ToDoList"/>
 </a>
