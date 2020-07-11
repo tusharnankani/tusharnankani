@@ -27,3 +27,15 @@ Currently, aim is to become a globally competent individual with **programming s
 
 
 ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&line_height=30)
+
+## Some Of My Projects
+
+<a href="https://github.com/tusharnankani/TSECHackathon">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=TSECHackathon" />
+</a>
+<a href="https://github.com/tusharnankani/ToDoList">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=ToDoList"/>
+</a>
+<a href="https://github.com/tusharnankani/GamesBuiltUsingPython">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=GamesBuiltUsingPython"/>
+</a>
