@@ -27,7 +27,7 @@ Currently, aim is to become a globally competent individual with **programming s
 
 
 <!-- ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&line_height=30) -->
-[![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tusharnankani?tab=repositories)
 
 ## Some Of My Projects
 
