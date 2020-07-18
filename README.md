@@ -28,9 +28,10 @@ Currently, aim is to become a globally competent individual with **programming s
 
 
 <!-- ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&line_height=30) -->
-<p align="center">
-[![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tusharnankani?tab=repositories)
-</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true" alt="tusharnankani" />-->
+
 
 ## Some Of My Projects
 
@@ -47,9 +48,9 @@ Currently, aim is to become a globally competent individual with **programming s
 <a href="https://github.com/tusharnankani/GamesBuiltUsingPython">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=GamesBuiltUsingPython"/>
 </a>
-#
-
+<!--
 <p align="center">
 <a href="https://linkedin.com/in/tusharnankani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tusharnankani" height="20" width="20" /></a>
 <a href="https://instagram.com/tusharnankanii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tusharnankanii" height="20" width="20" /></a>
 </p>
+-->
