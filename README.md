@@ -47,7 +47,7 @@ Currently, aim is to become a globally competent individual with **programming s
 <a href="https://github.com/tusharnankani/GamesBuiltUsingPython">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=GamesBuiltUsingPython"/>
 </a>
-
+#
 
 <p align="center">
 <a href="https://linkedin.com/in/tusharnankani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tusharnankani" height="20" width="20" /></a>
