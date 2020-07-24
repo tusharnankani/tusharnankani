@@ -1,4 +1,5 @@
 <h1 align="center">Hi there👋, I'm Tushar nankani</h1>
+<h2 align="center>Welcome to my GitHub!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharnankani" alt="tusharnankani" /> </p>
 
