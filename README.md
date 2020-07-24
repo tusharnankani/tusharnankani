@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Tushar nankani</h1>
-<h2 align="center>Welcome to my GitHub!</h2>
+<h2 align="center">Welcome to my GitHub!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharnankani" alt="tusharnankani" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *PHP, MySQL, React.js*
 
-- 👯 I’m looking to collaborate on **Open Sourced** Projects on *Web Devlopment* and *Python* related Projects.
+- 👯 I’m looking to collaborate on **Open Sourced** Projects on *Web Devlopment* and *Python* 🐍 related Projects.
 
 - 🤔 I’m looking for help with *Machine Learning & Data Science.*
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharnankani/) or <a href="mailto:tusharnankani3@gmail.com">Email</a>
 
-- 😄 Pronouns: **Coder**, **Orator**
+<!-- - 😄 Pronouns: **Coder**, **Orator** -->
 
 <!-- - ⚡ Fun fact: -->
 
@@ -50,9 +50,29 @@ Currently, aim is to become a globally competent individual with **programming s
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=GamesBuiltUsingPython"/>
 </a>
 </p>
-<!--
-<p align="center">
-<a href="https://linkedin.com/in/tusharnankani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tusharnankani" height="20" width="20" /></a>
-<a href="https://instagram.com/tusharnankanii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tusharnankanii" height="20" width="20" /></a>
-</p>
--->
+
+
+  <a href="https://in.linkedin.com/in/tusharnakani" target="blank">
+    <img align="left" alt="Tushar Nankani | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/tusharnakanii/" target="blank">
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a> 
+  <a href="mailto:tusharnankani@gmail.com" target="blank">
+    <img align="left" alt="Tushar Nankani | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+
+<br>
+
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+
+
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/tusharnankani) |  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/tusharnankanii/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/tusharnankani) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/tusharnankani3) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thedudethatcode@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|
+
+
+
+<br>
+<br>
+
