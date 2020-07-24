@@ -64,7 +64,7 @@ Currently, aim is to become a globally competent individual with **programming s
 -->
 
 <br>
-<h1 align="center">
+<h2>
 Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 </h1>
 
