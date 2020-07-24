@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Tushar nankani</h1>
+<h1 align="center">Hi there 👋, I'm Tushar nankani</h1>
 <h2 align="center">Welcome to my GitHub!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharnankani" alt="tusharnankani" /> </p>
@@ -33,7 +33,7 @@ Currently, aim is to become a globally competent individual with **programming s
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> </p>
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true" alt="tusharnankani" />-->
 
-
+<!--
 ## Some Of My Projects
 <p align="center">
 <a href="https://github.com/tusharnankani/TSECHackathon">
@@ -42,7 +42,6 @@ Currently, aim is to become a globally competent individual with **programming s
 <a href="https://github.com/tusharnankani/AnalogClock">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=AnalogClock"/>
 </a>
-
 <a href="https://github.com/tusharnankani/ToDoList">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=ToDoList"/>
 </a>
@@ -50,17 +49,19 @@ Currently, aim is to become a globally competent individual with **programming s
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=GamesBuiltUsingPython"/>
 </a>
 </p>
+-->
 
-
-  <a href="https://in.linkedin.com/in/tusharnakani" target="blank">
-    <img align="left" alt="Tushar Nankani | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://www.instagram.com/tusharnakanii/" target="blank">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a> 
-  <a href="mailto:tusharnankani@gmail.com" target="blank">
-    <img align="left" alt="Tushar Nankani | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+<!--
+<a href="https://in.linkedin.com/in/tusharnakani" target="blank">
+  <img align="left" alt="Tushar Nankani | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/tusharnakanii/" target="blank">
+  <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+</a> 
+<a href="mailto:tusharnankani@gmail.com" target="blank">
+  <img align="left" alt="Tushar Nankani | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+</a>
+-->
 
 <br>
 
