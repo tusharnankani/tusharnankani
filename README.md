@@ -30,7 +30,7 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <!-- ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&line_height=30) -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> </p>
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true" alt="tusharnankani" />-->
 
 <!--
