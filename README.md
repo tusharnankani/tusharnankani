@@ -1,11 +1,12 @@
-<h1 align="center">Hi there 👋, I'm Tushar nankani</h1>
+<h1 align="center">Hi there <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px">, I'm Tushar nankani</h1>
 <h2 align="center">Welcome to my GitHub!</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharnankani" alt="tusharnankani" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tusharnankani" alt="tusharnankani"/> </p> 
+<p align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/coder.gif" alt="codergif" /> </p>
 
 - 🔭 I’m currently working on my **Competitive Coding Skills**.
 
-- 🌱 I’m currently learning *PHP, MySQL, React.js* and how to **flex my profile's README.md** 💪.
+- 🌱 I’m currently learning *PHP, MySQL, React.js* and how to **flex my profile's [README.md](https://github.com/tusharnankani/tusharnankani/blob/master/README.md)** 💪.
 
 - 👯 I’m looking to collaborate on **Open Sourced** Projects on *Web Devlopment* and *Python* 🐍 related Projects.
 
@@ -71,7 +72,7 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <br>
 <h2>
-Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+Connect with me<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
 </h1>
 
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/tusharnankani) |  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/tusharnankanii/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/tusharnankani) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/tusharnankani3) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thedudethatcode@gmail.com)
