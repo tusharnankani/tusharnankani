@@ -1,4 +1,4 @@
-<h1 align="center">Hi there<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px"> I'm Tushar nankani.</h1>
+<h1 align="center">Hi there <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px"> I'm Tushar nankani.</h1>
 <h2 align="center">Welcome to my GitHub!</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tusharnankani" alt="tusharnankani"/> </p> 
@@ -72,15 +72,13 @@ Currently, aim is to become a globally competent individual with **programming s
 -->
 
 <br>
-<h2>
+
+<h2 align="center">
 Connect with me<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
-</h1>
+</h2>
 
 | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/tusharnankani) |  [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/tusharnankanii/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/tusharnankani) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/tusharnankani3) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:tusharnankani3@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|
-
-
-
 
 <br>
 <br>
