@@ -13,11 +13,15 @@
 
 - 💬 Ask me about **anything**, **anytime**!
 
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript.
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharnankani/) or <a href="mailto:tusharnankani3@gmail.com">Email</a>
+
+- 📝 [Resume](https://github.com/tusharnankani)
+
 
 <!-- - 😄 Pronouns: **Coder**, **Orator** -->
 
-<!-- - ⚡ Fun fact: -->
 
 ### About Me
 
