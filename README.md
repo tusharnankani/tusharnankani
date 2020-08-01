@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharnankani/) or <a href="mailto:tusharnankani3@gmail.com">Email</a>
 
-- 📝 [My Resume](https://drive.google.com/file/d/1ELwYBjQMbTxDiZasaF0_O6bjRmloW_xV/view?usp=sharing)
+- 📝 <a href="https://drive.google.com/file/d/1ELwYBjQMbTxDiZasaF0_O6bjRmloW_xV/view?usp=sharing" target="_blank">My Resume </a>
 
 
 <!-- - 😄 Pronouns: **Coder**, **Orator** -->
@@ -63,7 +63,7 @@ Currently, aim is to become a globally competent individual with **programming s
   <img align="left" alt="Tushar Nankani | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/tusharnakanii/" target="blank">
-  <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  <img align="left" alt="Tushar Nankani | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a> 
 <a href="mailto:tusharnankani@gmail.com" target="blank">
   <img align="left" alt="Tushar Nankani | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
