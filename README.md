@@ -73,7 +73,7 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <br>
 
-<h2 align="center">
+<h2>
 Connect with me<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
 </h2>
 
