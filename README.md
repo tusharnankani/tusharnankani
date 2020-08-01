@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my **Competitive Coding Skills**.
 
-- 🌱 I’m currently learning *PHP, MySQL, React.js*
+- 🌱 I’m currently learning *PHP, MySQL, React.js* and how to **flex my profile's README.md** 💪.
 
 - 👯 I’m looking to collaborate on **Open Sourced** Projects on *Web Devlopment* and *Python* 🐍 related Projects.
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharnankani/) or <a href="mailto:tusharnankani3@gmail.com">Email</a>
 
-- 📝 [Resume](https://github.com/tusharnankani)
+- 📝 [My Resume](https://drive.google.com/file/d/1ELwYBjQMbTxDiZasaF0_O6bjRmloW_xV/view?usp=sharing)
 
 
 <!-- - 😄 Pronouns: **Coder**, **Orator** -->
