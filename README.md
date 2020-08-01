@@ -2,7 +2,6 @@
 <h2 align="center">Welcome to my GitHub!</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tusharnankani" alt="tusharnankani"/> </p> 
-<p align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/coder.gif" alt="codergif" /> </p>
 
 - 🔭 I’m currently working on my **Competitive Coding Skills**.
 
@@ -22,6 +21,8 @@
 
 
 <!-- - 😄 Pronouns: **Coder**, **Orator** -->
+
+<p align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/coder.gif" alt="codergif" /> </p>
 
 
 ### About Me
