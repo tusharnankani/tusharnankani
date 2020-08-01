@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px">, I'm Tushar nankani</h1>
+<h1 align="center">Hi there<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px">, I'm Tushar nankani.</h1>
 <h2 align="center">Welcome to my GitHub!</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tusharnankani" alt="tusharnankani"/> </p> 
