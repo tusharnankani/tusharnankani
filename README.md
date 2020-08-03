@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharnankani/) or <a href="mailto:tusharnankani3@gmail.com">Email</a>
 
-- 📝 <a href="https://drive.google.com/file/d/1ELwYBjQMbTxDiZasaF0_O6bjRmloW_xV/view?usp=sharing" target="_blank">My Resume</a>
+- 📝 <a href="https://drive.google.com/file/d/14RZjQ7-GLBytcjGVFz9Y-ZurNJzaEEXT/view?usp=sharing" target="_blank">My Resume</a>
 
 
 <!-- - 😄 Pronouns: **Coder**, **Orator** -->
