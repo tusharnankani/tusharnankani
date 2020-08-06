@@ -1,6 +1,6 @@
 
 <!-- <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px"> -->
-<h1 align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/tusharnankani/">Tushar Nankani</a>. Welcome to my GitHub!</h1>
+<h1 align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/tusharnankani/">Tushar Nankani</a>. Welcome to my GitHub! 🤗</h1>
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
