@@ -37,10 +37,10 @@ I have the **attitude** of a learner, the **courage** of an entrepreneur and the
 
 Currently, aim is to become a globally competent individual with **programming skills** along with **business leadership/entrepreneurship skills**.
 
-
 <!-- ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&line_height=30) -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&include_all_commits=true&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p>
+
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true" alt="tusharnankani" />-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharnankani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kushal98?tab=repositories)-->
