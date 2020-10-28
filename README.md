@@ -7,9 +7,11 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tusharnankani" alt="tusharnankani"/> </p> 
 
+- 🤗 Read my latest *Medium Blog Post* - **[An Exhaustive WhatsApp Chat Data Analysis.](https://medium.com/@tusharnankani/an-exhaustive-whatsapp-chat-data-analysis-f8421a845c30)**
+
 - 🔭 I’m currently working on my **Competitive Coding Skills**.
 
-- 🌱 I’m currently learning *PHP, MySQL, React.js* and how to **flex my profile's [README.md](https://github.com/tusharnankani/tusharnankani/blob/master/README.md)** 💪.
+- 🌱 I’m currently learning *React.js* and how to **flex my profile's [README.md](https://github.com/tusharnankani/tusharnankani/blob/master/README.md)** 💪.
 
 - 👯 I’m looking to collaborate on **Open Sourced** Projects on *Web Devlopment* and *Python* 🐍 related Projects.
 
@@ -21,7 +23,7 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharnankani/) or <a href="mailto:tusharnankani3@gmail.com">Email</a>
 
-- 📝 <a href="https://drive.google.com/file/d/14RZjQ7-GLBytcjGVFz9Y-ZurNJzaEEXT/view?usp=sharing" target="_blank">My Resume</a>
+<!-- - 📝 <a href="https://drive.google.com/file/d/14RZjQ7-GLBytcjGVFz9Y-ZurNJzaEEXT/view?usp=sharing" target="_blank">My Resume</a> -->
 
 
 <!-- - 😄 Pronouns: **Coder**, **Orator** -->
@@ -30,9 +32,9 @@
 
 ### About Me
 
-I am working on my **Data Structures** and **Algorithms**. My interest lies in **Data Science**, **Empirical Research**, **Statistics** and **Machine Learning**. I aim to be an **Opensource contributor**. 
+I am working on my **Data Structures** and **Algorithms**. My interest lies in **Data Science**, **Empirical Research**, **Statistics** and **Machine Learning**. I aim to be an **Open-Source Contributor**. 
 
-I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and a desire to contribute to **environment** and **society**.
+I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and an innate desire to contribute to **environment** and **society**.
 
 Currently, aim is to become a globally competent individual with **programming skills** along with **business leadership/entrepreneurship skills**.
 
