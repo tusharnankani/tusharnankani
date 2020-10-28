@@ -40,10 +40,11 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <!-- ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&line_height=30) -->
 
-<p align="center">
  
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> -->
 
+<p align="center">
+ 
 <img src="https://metrics.lecoq.io/tusharnankani" alt="Github Metrics">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharnankani" alt="Github Streak Stats">
