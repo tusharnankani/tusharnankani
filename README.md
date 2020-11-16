@@ -21,7 +21,7 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharnankani/) or <a href="mailto:tusharnankani3@gmail.com">Email</a>
 
-- 📝 <a href="https://drive.google.com/file/d/14RZjQ7-GLBytcjGVFz9Y-ZurNJzaEEXT/view?usp=sharing" target="_blank">My Resume</a>
+<!-- - 📝 <a href="https://drive.google.com/file/d/14RZjQ7-GLBytcjGVFz9Y-ZurNJzaEEXT/view?usp=sharing" target="_blank">My Resume</a> -->
 
 
 <!-- - 😄 Pronouns: **Coder**, **Orator** -->
@@ -38,7 +38,17 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <!-- ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&line_height=30) -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p> -->
+
+<p align="center">
+  
+<img src="https://metrics.lecoq.io/tusharnankani" alt="Github Metrics">
+  
+  <br>
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharnankani" alt="Github Streak Stats">
+  
+</p>
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true" alt="tusharnankani" />-->
 
