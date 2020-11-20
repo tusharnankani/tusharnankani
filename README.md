@@ -21,18 +21,16 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharnankani/) or <a href="mailto:tusharnankani3@gmail.com">Email</a>
 
-<!-- - 📝 <a href="https://drive.google.com/file/d/14RZjQ7-GLBytcjGVFz9Y-ZurNJzaEEXT/view?usp=sharing" target="_blank">My Resume</a> -->
-
-
-<!-- - 😄 Pronouns: **Coder**, **Orator** -->
+- 📝 <a href="https://drive.google.com/file/d/1kROuh18j69Y3NDslJvFe4vKBRiu3vCHZ/view?usp=sharing" target="_blank">My Resume</a>
 
 <p align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/coder.gif" alt="codergif" /> </p>
+
 
 ### About Me
 
 I am working on my **Data Structures** and **Algorithms**. My interest lies in **Data Science**, **Empirical Research**, **Statistics** and **Machine Learning**. I aim to be an **Opensource contributor**. 
 
-I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and have an *innate desire* to contribute to **environment** and **society**.
+<!-- I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and have an *innate desire* to contribute to **environment** and **society**. -->
 
 Currently, aim is to become a globally competent individual with **programming skills** along with **business leadership/entrepreneurship skills**.
 
