@@ -7,6 +7,8 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tusharnankani" alt="tusharnankani"/> </p> 
 
+- 🤗 Read my latest *Medium Blog Post* - **[An Exhaustive WhatsApp Chat Data Analysis.](https://medium.com/@tusharnankani/an-exhaustive-whatsapp-chat-data-analysis-f8421a845c30)**
+
 - 🔭 I’m currently working on my **Competitive Coding Skills**.
 
 - 🌱 I’m currently learning *PHP, MySQL, React.js* and how to **flex my profile's [README.md](https://github.com/tusharnankani/tusharnankani/blob/master/README.md)** 💪.
