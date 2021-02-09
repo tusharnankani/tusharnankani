@@ -11,17 +11,17 @@
 
 - 🔭 I’m currently working on my **Competitive Coding Skills**.
 
-- 🌱 I’m currently learning *PHP, MySQL, React.js* and how to **flex my profile's [README.md](https://github.com/tusharnankani/tusharnankani/blob/master/README.md)** 💪.
+- 🌱 I’m currently learning *React.js* and how to **flex my profile's [README.md](https://github.com/tusharnankani/tusharnankani/blob/master/README.md)** 💪.
 
 - 👯 I’m looking to collaborate on **Open Sourced** Projects on *Web Devlopment* and *Python* 🐍 related Projects.
 
-- 🤔 I’m looking for help with *Machine Learning & Data Science.*
+- 🤔 I’m looking for help with *Machine Learning.*
 
 - 💬 Ask me about **anything**, **anytime**!
 
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharnankani/) or <a href="mailto:tusharnankani3@gmail.com">Email</a>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharnankani/) or <a href="mailto:tusharnankani3@gmail.com">Email</a> or [here](https://github.com/tusharnankani/tusharnankani/issues/new).
 
 - 📝 <a href="https://drive.google.com/file/d/1kROuh18j69Y3NDslJvFe4vKBRiu3vCHZ/view?usp=sharing" target="_blank">My Resume</a>
 
@@ -83,6 +83,9 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <br>
 
+
+<div align="center">
+
 <h2>
 Connect with me<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
 </h2>
@@ -90,5 +93,6 @@ Connect with me<img src="https://github.com/tusharnankani/tusharnankani/blob/mas
 | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/tusharnankani) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@tusharnankani) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/tusharnankanii/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/tusharnankani) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/tusharnankani) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:tusharnankani3@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-<br>
+</div>
+
 <br>
