@@ -72,7 +72,7 @@ Currently, aim is to become a globally competent individual with **programming s
 <div align="center">
 
 <h2>
-Connect with me<img src="assets/Handshake.gif" height="32px">
+Connect with me<img src="Assets/Handshake.gif" height="32px">
 </h2>
 
 | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/tusharnankani) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@tusharnankani) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/tusharnankanii/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/tusharnankani) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/tusharnankani) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:tusharnankani3@gmail.com) |
