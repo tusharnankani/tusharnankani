@@ -1,6 +1,6 @@
 <!-- <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px"> -->
 
-<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/portfolio.gh.png" alt="about-ss"> </a> 
+<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a> 
  
  <br > Welcome to my GitHub! 🤗</h1>
 
@@ -10,15 +10,22 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tusharnankani" alt="tusharnankani"/> </p>
 
 -   🤗 Read my latest _Medium Blog Post_ - **[An Exhaustive WhatsApp Chat Data Analysis.](https://medium.com/@tusharnankani/an-exhaustive-whatsapp-chat-data-analysis-f8421a845c30)**
+-   
 -   🔭 I'm currently working on my **Competitive Coding Skills**.
+-   
 -   🌱 I'm currently learning _React.js_ and how to **flex my profile's [README.md](https://github.com/tusharnankani/tusharnankani/blob/master/README.md)** 💪.
+-   
 -   👯 I'm looking to collaborate on **Open Sourced** Projects on _Web Devlopment_ and _Python_ 🐍 related Projects.
+-   
 -   🤔 I'm looking for help with _Machine Learning._
+-
 -   💬 Ask me about **anything**, **anytime**!
+-
 -   ⚡ Fun fact: Equal is Not Always Equal in Javascript.
+-
 -   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharnankani/), <a href="mailto:tusharnankani3@gmail.com">Email</a> or [here](https://github.com/tusharnankani/tusharnankani/issues/new).
 
-<p align="center"> <img src="assets/coder.gif" alt="codergif" /> </p>
+<p align="center"> <img src="Assets/coder.gif" alt="codergif" /> </p>
 
 ### About Me
 
