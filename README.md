@@ -4,32 +4,24 @@
  
  <br > Welcome to my GitHub! 🤗</h1>
 
-<p align="center">
+<!-- <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
-</p>
+</p> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tusharnankani" alt="tusharnankani"/> </p>
 
--   🤗 Read my latest _Medium Blog Post_ - **[An Exhaustive WhatsApp Chat Data Analysis.](https://medium.com/@tusharnankani/an-exhaustive-whatsapp-chat-data-analysis-f8421a845c30)**
-   
--   🔭 I'm currently working on my **Competitive Coding Skills**.
-
--   🌱 I'm currently learning _React.js_ and how to **flex my profile's [README.md](https://github.com/tusharnankani/tusharnankani/blob/master/README.md)** 💪.
-   
--   👯 I'm looking to collaborate on **Open Sourced** Projects on _Web Devlopment_ and _Python_ 🐍 related Projects.
-   
--   🤔 I'm looking for help with _Machine Learning._
-
--   💬 Ask me about **anything**, **anytime**!
-
--   ⚡ Fun fact: Equal is Not Always Equal in Javascript.
-
--   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharnankani/), <a href="mailto:tusharnankani3@gmail.com">Email</a> or [here](https://github.com/tusharnankani/tusharnankani/issues/new).
-
-<p align="center"> <img src="Assets/coder.gif" alt="codergif" /> </p>
+-   🤗 Read my latest Medium Blog Post - [An Exhaustive WhatsApp Chat Data Analysis.](https://medium.com/@tusharnankani/an-exhaustive-whatsapp-chat-data-analysis-f8421a845c30)
+-   🔭 I'm currently working on my Competitive Coding Skills.
+-   🌱 I'm currently learning _React.js_ and how to flex my profile's [README.md](https://github.com/tusharnankani/tusharnankani/blob/master/README.md) 💪.
+-   👯 I'm looking to collaborate on Open Sourced Projects on _Web Devlopment_ and _Python_ 🐍 related Projects.
+-   💬 Ask me about anything, anytime.
+-   📫 How to reach me: 
+    - [LinkedIn](https://www.linkedin.com/in/tusharnankani/)
+    - [Twitter](https://twitter.com/tusharnankanii)
+    - <a href="mailto:tusharnankani3@gmail.com">Email</a>
 
 ### About Me
 
-I am working on my **Data Structures** and **Algorithms**. My interest lies in **Data Science**, **Empirical Research**, **Statistics** and **Machine Learning**. I aim to be an **Open Source contributor**.
+I am working on my **Data Structures** and **Algorithms**. My interest lies in **Data Science**, **Empirical Research**, **Statistics** and **Machine Learning**. I aim to be an open-source contributor.
 
 <!-- I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and have an *innate desire* to contribute to **environment** and **society**. -->
 
