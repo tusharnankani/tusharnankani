@@ -1,8 +1,11 @@
 <!-- <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px"> -->
 
-<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a> 
+<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a> </h1>
  
- <br > Welcome to my GitHub! 🤗</h1>
+<details>
+ <summary>Know more</summary>
+ 
+ <h1 align="center">Welcome to my GitHub! 🤗</h1>
 
 <!-- <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
@@ -60,7 +63,6 @@ Currently, aim is to become a globally competent individual with **programming s
 -->
 
 <br>
-
 <div align="center">
 
 <h2>
@@ -72,4 +74,5 @@ Connect with me<img src="Assets/Handshake.gif" height="32px">
 
 </div>
 
-<br>
+
+</details>
